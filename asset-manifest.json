@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1811bf87.css",
+    "main.js": "/static/js/main.2df4f0c6.js",
+    "static/media/ditpas-man.png": "/static/media/ditpas-man.539f8cab0394e99978fe.png",
+    "static/media/virus2.png": "/static/media/virus2.a2ca7c1764d0e0338ea3.png",
+    "static/media/ditpas-woman.png": "/static/media/ditpas-woman.d1c5ae2c474b14ffd065.png",
+    "static/media/doctor-male.png": "/static/media/doctor-male.26f0ec9a3aff5867e449.png",
+    "static/media/unodc-man.png": "/static/media/unodc-man.35c5587eb5a4e0687058.png",
+    "static/media/logodpaswhite.png": "/static/media/logodpaswhite.47d3d2bed6e887be4ce2.png",
+    "index.html": "/index.html",
+    "main.1811bf87.css.map": "/static/css/main.1811bf87.css.map",
+    "main.2df4f0c6.js.map": "/static/js/main.2df4f0c6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1811bf87.css",
+    "static/js/main.2df4f0c6.js"
+  ]
+}
